@@ -1,0 +1,10 @@
+export const PrimaryColor="#5410c0";
+export const SecoundaryColor="orange";
+export const white="white";
+export const InputColor="#2d0a67";
+export const FontColor=white;
+export const Gray="#c6c6c6";
+export const ObjItemColor1="#49d6c5";
+export const ObjItemColor2="#d2c6d8";
+export const Red="#EA514B";
+export const Purple="#4505a1";
